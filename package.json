@@ -1,0 +1,19 @@
+{
+  "name": "section-4-real-project-with-docker",
+  "version": "1.0.0",
+  "description": "Simple NodeJS web server using Express for building a Docker image.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Docker"
+  ],
+  "author": "Rodrigo Hernando",
+  "license": "MIT"
+}
